@@ -1,4 +1,4 @@
-# SE23
+# SE23 - Team 71
 CSC 520: Software Engineering NCSU (Fall 23)
 
 Team Members:
